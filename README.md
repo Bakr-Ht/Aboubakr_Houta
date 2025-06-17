@@ -25,4 +25,4 @@
 - 📧 Email: Aboubakrhouta@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/aboubakr-houta-a94318327
 
-> "Train hard. Hack smart. No shortcuts."
+
