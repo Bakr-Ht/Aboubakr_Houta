@@ -7,9 +7,10 @@
 
 ---
 
-## 💻 Projects
+##  Projects
 
-- 🔐 [bash-password-generator](https://github.com/Bakr-Ht/bash-password-generator): A simple Bash script to generate secure passwords using Base64.
+-  [bash-password-generator](https://github.com/Bakr-Ht/bash-password-generator): A simple Bash script to generate secure passwords using Base64.
+-  [Exploit Report](https://github.com/Bakr-Ht/samba-trans2open-exploit-report): exploiting the Samba Trans2Open vulnerability CVE-2003-0201 .
 
 ---
 
